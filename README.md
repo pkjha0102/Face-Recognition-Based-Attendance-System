@@ -10,3 +10,5 @@ This project covers all the basic and required features like:
   6. Auto Refresh: This feature helps page keep updating itself every 60 seconds with a live timer.
 
 For any query/feedback, please reach me at pkjha0102@gmail.com  
+
+To run this app, clone the repository type 'flask run' in terminal to launch in browser.
